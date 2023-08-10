@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Srivastav</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Tech enthusiast specialised in MERN Stack </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayanksrivastava1&label=Profile%20views&color=0e75b6&style=flat" alt="mayanksrivastava1" /> </p>
 
